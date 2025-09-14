@@ -1,0 +1,5 @@
+bin/Debug/net9.0/*
+obj/Debug/net9.0/*
+obj/*
+/.vs
+.DS_Store
